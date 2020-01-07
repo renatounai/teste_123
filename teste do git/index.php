@@ -1,7 +1,9 @@
 um arquivo php / segunda alteração / terceira alteração / quinta alteração
 
-<?php echo 'eita' 
+<?php 
 
+function teste($p1) {
+    print_r($p1);
+}
 
-isso é um teste
 
