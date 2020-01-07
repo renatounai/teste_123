@@ -2,4 +2,4 @@ um arquivo php / segunda alteração / terceira alteração /
 
 algo aqui
 
-<?php
+<?php echo 'eita' 
